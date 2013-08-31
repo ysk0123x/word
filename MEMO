@@ -1,0 +1,16 @@
+midasi()	形態素の見出し
+yomi()	形態素の読み
+genkei()	形態素の原形
+hinsi()	形態素の品詞
+hinsi_id()	形態素の品詞番号
+bunrui()	形態素の細分類
+bunrui_id()	形態素の細分類番号
+katuyou1()	形態素の活用型
+katuyou1_id()	形態素の活用型番号
+katuyou2()	形態素の活用形
+katuyou2_id()	形態素の活用形番号
+imis()	形態素の意味情報
+doukei()	形態素の同形異義語のリスト
+id()	コンストラクタを呼び出したときに指定した ID
+spec()	形態素オブジェクトを文字列に変換
+
