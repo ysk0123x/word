@@ -1,12 +1,13 @@
 #!/usr/bin/perl
 
 use strict;
-use Juman;
+use Juman; ## 形態素解析ツール
 
 #INPUT FILE
-open(SRC,"./File/Acid.txt");
+open(SRC,"./File/Asian_KG.txt");
 print "見出し\t原形\t品詞\n\n";
 
+# 処理
 while(<SRC>){
 	chomp;
 	my $str = $_;
